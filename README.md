@@ -64,7 +64,7 @@ Admins have access to the following functionalities:
 
 ## 📲 Availability
 
-The application will be available soon on both the **App Store** and **Google Play Store**.
+The application will be available soon on **Google Play Store**.
 
 ---
 
