@@ -1,7 +1,7 @@
 # WE-Care Android App
 
 ## 1. Login / Registration Screen
-![Login Screen](.assets/1.png)
+![Login Screen](assets/1.png)
 
 This is the beginning layout of the WE-Care application. Here, users can:
 - Login as **Admin** or **User**
@@ -10,7 +10,7 @@ This is the beginning layout of the WE-Care application. Here, users can:
 ---
 
 ## 2. Home Screen
-![Home Screen](.assets/2.png)
+![Home Screen](assets/2.png)
 
 After login, users arrive at the **Home Screen** where they can:
 - View their profile
@@ -20,7 +20,7 @@ After login, users arrive at the **Home Screen** where they can:
 ---
 
 ## 3. School and Doctor Services
-![School and Doctor](.assets/3.png)
+![School and Doctor](assets/3.png)
 
 From the home page, users can explore services such as:
 - Finding nearby schools suited for children with Autism Spectrum Disorder
@@ -29,7 +29,7 @@ From the home page, users can explore services such as:
 ---
 
 ## 4. NGO Support and Precaution Info
-![NGO and Precaution](.assets/4.png)
+![NGO and Precaution](assets/4.png)
 
 From the same screen, users can:
 - Seek help from NGOs dedicated to supporting special needs
@@ -38,7 +38,7 @@ From the same screen, users can:
 ---
 
 ## 5. NGO Messaging Interface
-![NGO Messaging](.assets/5.png)
+![NGO Messaging](assets/5.png)
 
 Inside the **NGO section**, users are able to:
 - Directly message NGOs to request support
