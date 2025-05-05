@@ -28,12 +28,12 @@ From the home page, users can explore services such as:
 
 ---
 
-## 4. NGO Support and Precaution Info
+## 4. NGO Support and Overview Info
 <img src="./assets/4.png" alt="NGO and Precaution" width="50%" />
 
 From the same screen, users can:
 - Seek help from NGOs dedicated to supporting special needs
-- View **Primary Precautionary Guidelines** for care and early intervention
+- View **Overview**
 
 ---
 
