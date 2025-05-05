@@ -1,7 +1,7 @@
 # WE-Care Android App
 
 ## 1. Login / Registration Screen
-![Login Screen](assets/1.png)
+<img src="./assets/1.png" alt="Login Screen" width="50%" />
 
 This is the beginning layout of the WE-Care application. Here, users can:
 - Login as **Admin** or **User**
@@ -10,7 +10,7 @@ This is the beginning layout of the WE-Care application. Here, users can:
 ---
 
 ## 2. Home Screen
-![Home Screen](assets/2.png)
+<img src="./assets/2.png" alt="Home Screen" width="50%" />
 
 After login, users arrive at the **Home Screen** where they can:
 - View their profile
@@ -20,7 +20,7 @@ After login, users arrive at the **Home Screen** where they can:
 ---
 
 ## 3. School and Doctor Services
-![School and Doctor](assets/3.png)
+<img src="./assets/3.png" alt="School and Doctor" width="50%" />
 
 From the home page, users can explore services such as:
 - Finding nearby schools suited for children with Autism Spectrum Disorder
@@ -29,7 +29,7 @@ From the home page, users can explore services such as:
 ---
 
 ## 4. NGO Support and Precaution Info
-![NGO and Precaution](assets/4.png)
+<img src="./assets/4.png" alt="NGO and Precaution" width="50%" />
 
 From the same screen, users can:
 - Seek help from NGOs dedicated to supporting special needs
@@ -38,7 +38,7 @@ From the same screen, users can:
 ---
 
 ## 5. NGO Messaging Interface
-![NGO Messaging](assets/5.png)
+<img src="./assets/5.png" alt="NGO Messaging" width="50%" />
 
 Inside the **NGO section**, users are able to:
 - Directly message NGOs to request support
@@ -75,3 +75,4 @@ The application will be available soon on both the **App Store** and **Google Pl
 **Mohammed Rakibul Hasan**
 
 This application was designed to bridge the gap in accessing tailored support for children with Autism Spectrum Disorder. It integrates a network of schools, doctors, and NGOs, with a special focus on user-friendly communication and service registration.
+
