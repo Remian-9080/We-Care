@@ -62,6 +62,12 @@ Admins have access to the following functionalities:
 
 ---
 
+## 📲 Availability
+
+The application will be available soon on both the **App Store** and **Google Play Store**.
+
+---
+
 ## 👨‍🏫 Supervisor
 **Dr. Razib Hayat Khan**
 
@@ -69,5 +75,3 @@ Admins have access to the following functionalities:
 **Mohammed Rakibul Hasan**
 
 This application was designed to bridge the gap in accessing tailored support for children with Autism Spectrum Disorder. It integrates a network of schools, doctors, and NGOs, with a special focus on user-friendly communication and service registration.
-
-> [GitHub Repository Link Placeholder]
